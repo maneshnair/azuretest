@@ -1,0 +1,2 @@
+# azuretest
+For testing purpose
